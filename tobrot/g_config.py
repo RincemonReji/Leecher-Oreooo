@@ -1,15 +1,15 @@
 from tobrot.sample_config import Config
 
 class Config(Config):
-    TG_BOT_TOKEN= "1288713654:AAHaJ7G2S0w3hmPrraKYBfTJexWJC47MXVs"
-    APP_ID = 1618055
-    API_HASH = "a4a50a6e5f9b8550884d61d7ee49e5f4"
-    OWNER_ID = 976661372
-    AUTH_CHANNEL = [-1001161510664]
+    TG_BOT_TOKEN= "1658538479:AAExMFTX1ywKg9yyeWWUJs21urPg_qpFHKY"
+    APP_ID = 2092738
+    API_HASH = "77149d5b934f4823df42ee742ba337a1"
+    OWNER_ID = 1304403954
+    AUTH_CHANNEL = [-1001429365006]
     DESTINATION_FOLDER = "fcgdrive" #Name of your folder read readme(not id of the folder)
     RCLONE_CONFIG = ""
-    YTDL_COMMAND = "ytdl@JikkutorfileBot"
-    LEECH_COMMAND = "leech@JikkutorfileBot"
-    SAVE_THUMBNAIL = "savethumbnail@JikkutorfileBot"
-    CLEAR_THUMBNAIL = "clearthumbnail@JikkutorfileBot"
+    YTDL_COMMAND = "ytdl"
+    LEECH_COMMAND = "leech"
+    SAVE_THUMBNAIL = "savethumbnail"
+    CLEAR_THUMBNAIL = "clearthumbnail"
     UPLOAD_AS_DOC = "True"
